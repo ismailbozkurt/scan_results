@@ -1,1 +1,1 @@
-https://flickr.com http://flickr.com http://flickr.com:80
+https://acc.com http://acc.com http://acc.com:80
